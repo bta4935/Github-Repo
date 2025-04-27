@@ -1,0 +1,13 @@
+site_name: Tutorial Codebase Knowledge
+site_url: ""
+theme:
+  name: material
+nav:
+  - Home: github/index.md
+  - System Design: github/design.md
+  - CLI & Configuration: github/01_cli___configuration_.md
+  - Tutorial Generation Flow: github/02_tutorial_generation_flow_.md
+  - Tutorial Structure & Output: github/03_tutorial_structure___output_.md
+  - Code Source Crawling: github/04_code_source_crawling_.md
+  - Processing Nodes: github/05_processing_nodes_.md
+  - LLM Interaction & Prompting: github/06_llm_interaction___prompting_.md

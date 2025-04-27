@@ -1,0 +1,37 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables and secrets
+.env.local
+
+# LLM and other caches
+llm_cache.json
+
+# Build outputs
+output/
+deliverable.zip
+logs/
+
+# Node.js
+node_modules/
+.next/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python virtualenv
+venv/
+.env/
+
+# Misc
+*.zip
+*.tar.gz
+*.egg-info/
+
+# Ignore frontend build artifacts
+frontend/.next/
+frontend/node_modules/
